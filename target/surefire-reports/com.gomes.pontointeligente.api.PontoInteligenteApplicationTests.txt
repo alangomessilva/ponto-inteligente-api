@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.gomes.pontointeligente.api.PontoInteligenteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.631 s <<< FAILURE! - in com.gomes.pontointeligente.api.PontoInteligenteApplicationTests
+contextLoads(com.gomes.pontointeligente.api.PontoInteligenteApplicationTests)  Time elapsed: 0.013 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is java.lang.IllegalArgumentException: Unrecognized legacy `hibernate.hbm2ddl.auto` value : name
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is java.lang.IllegalArgumentException: Unrecognized legacy `hibernate.hbm2ddl.auto` value : name
+Caused by: java.lang.IllegalArgumentException: Unrecognized legacy `hibernate.hbm2ddl.auto` value : name
+
