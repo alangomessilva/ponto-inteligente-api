@@ -1,1 +1,10 @@
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/controllers/EmpresaControllerTest.java
 /home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/PontoInteligenteApplicationTests.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/services/FuncionarioServiceTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/controllers/LancamentoControllerTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/services/LancamentoServiceTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/services/EmpresaServiceTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/repositories/LancamentoRepositoryTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/repositories/FuncionarioRepositoryTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/repositories/EmpresaRepositoryTest.java
+/home/alangomes/Documentos/Estudos/PontoInteligente/src/test/java/com/gomes/pontointeligente/api/utils/PasswordUtilsTest.java
